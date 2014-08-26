@@ -1,0 +1,8 @@
+C:\Users\Derek.Tian\Documents\Visual Studio 2012\Projects\testEmit\DynamicProxy\bin\Debug\DynamicProxy.dll
+C:\Users\Derek.Tian\Documents\Visual Studio 2012\Projects\testEmit\DynamicProxy\bin\Debug\DynamicProxy.pdb
+C:\Users\Derek.Tian\Documents\Visual Studio 2012\Projects\testEmit\DynamicProxy\obj\Debug\DynamicProxy.dll
+C:\Users\Derek.Tian\Documents\Visual Studio 2012\Projects\testEmit\DynamicProxy\obj\Debug\DynamicProxy.pdb
+D:\derek.tian\SelfLib\DynamicProxy\bin\Debug\DynamicProxy.dll
+D:\derek.tian\SelfLib\DynamicProxy\bin\Debug\DynamicProxy.pdb
+D:\derek.tian\SelfLib\DynamicProxy\obj\Debug\DynamicProxy.dll
+D:\derek.tian\SelfLib\DynamicProxy\obj\Debug\DynamicProxy.pdb
